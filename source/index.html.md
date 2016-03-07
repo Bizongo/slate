@@ -12,6 +12,7 @@ includes:
   - api/authentication
   - api/errors
   - api/products
+  - api/users
 
 search: true
 ---
